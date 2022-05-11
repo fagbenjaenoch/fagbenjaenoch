@@ -8,7 +8,7 @@
 - 👯 I’m looking forward to collaborate with other web and software developers
 - 🥅 2022 Goals: Learn more about backend tech and improve my web development skills
 - ⚡ Fun fact: I love to spread the Gospel of Christ
-- 😻 Check out the website i'm currently working on: [StudyPlus](https://wwww.test-web-5kv.pages.dev)
+- 😻 Check out the website i'm currently working on: [StudyPlus](https://test-web-5kv.pages.dev)
 
 ### Connect with me:
 
