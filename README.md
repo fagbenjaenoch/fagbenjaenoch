@@ -8,13 +8,10 @@
 - 👯 I’m looking forward to collaborate with other web and software developers
 - 🥅 2022 Goals: Learn more about backend tech and improve my web development skills
 - ⚡ Fun fact: I love to spread the Gospel of Christ
-- 😻 Check out the website i'm currently working on: [StudyPlus](https://test-web-5kv.pages.dev)
+- 😻 Check out the website i'm currently working on:[StudyPlus](https://test-web-5kv.pages.dev)
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://fagbenjaenoch.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://fagbenjaenoch.com#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://youtube.com/fagbenjaenoch#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://youtube.com/fagbenjaenoch#gh-dark-mode-only)
 &nbsp;&nbsp;
@@ -35,11 +32,6 @@
 [<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />][cssplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jsplaylist]
 [<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][reactplaylist]
-[<img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Deno" width="26px" src="./img/deno-light.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
