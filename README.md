@@ -7,7 +7,7 @@ src="https://img.shields.io/twitter/follow/fagbenjaenoch?logo=twitter&style=for-
 <a href="https://www.github.com/fagbenjaenoch " target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/fagbenjaenoch ?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-## I'm a Christian and Full Stack Web developer!
+## I'm a Full Stack Web developer!
 
 I'm a Full Stack Web developer with 2 years experience and always on 🔥🔥 to the core
 
