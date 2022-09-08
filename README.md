@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I'm a passion driven software developer with active learning as a skill and I like to work on projects including the command line 👽
+I'm a passion driven software developer with active learning as a skill and I like to work on projects using the command line 👽
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [fagbenjaenoch73@gmail.com](mailto:fagbenjaenoch73@gmail.com)
@@ -42,10 +42,6 @@ I'm a passion driven software developer with active learning as a skill and I li
 <a href="http://www.github.com/fagbenjaenoch"><img src="https://activity-graph.herokuapp.com/graph?username=fagbenjaenoch&bg_color=1c1917&color=ffffff&line=f97316&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/fagbenjaenoch" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fagbenjaenoch&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
 
 ### Support Me
 
