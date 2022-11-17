@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I'm a passion driven software developer with active learning as a skill and I like to work on projects using the command line 👽
+I'm a passion driven software developer with active learning as a skill and I like to work on projects using the command line 
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [fagbenjaenoch73@gmail.com](mailto:fagbenjaenoch73@gmail.com)
