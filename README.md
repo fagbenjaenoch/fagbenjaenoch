@@ -10,7 +10,7 @@ I'm a passion driven software developer with active learning as a skill and I li
 * ✉️  You can contact me at [fagbenjaenoch73@gmail.com](mailto:fagbenjaenoch73@gmail.com)
 * 🧠  I'm learning Backend Development
 * 🤝  I'm open to collaborating on Node Js Projects
-* ⚡  I love to share the Gospel of Jesus Christ
+* ⚡  I'm absolutely nothing without JESUS 
 
 ### Skills
 
