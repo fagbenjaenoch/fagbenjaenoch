@@ -6,7 +6,7 @@ I'm a passion driven software developer with active learning as a skill and I li
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [fagbenjaenoch73@gmail.com](mailto:fagbenjaenoch73@gmail.com)
 * 🧠  I'm learning Backend Development
-* 🤝  I'm open to collaborating on Node Js Projects
+* 🤝  I'm open to collaborating on Backend projects (Nodejs and Go)
 * ⚡  I'm absolutely nothing without JESUS 
 
 ### Skills
