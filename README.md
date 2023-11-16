@@ -1,11 +1,17 @@
 ## Software Developer
 
-I'm a passion driven software developer with active learning as a skill and I like to work on projects using the command line
+Hi!
+
+I'm Fagbenja Enoch and i'm a Full Stack Software developer with over 2 years of experience. 
+
+I am have basic understanding of Software principles and have been working on part-time Projects. I learn pretty fast ⚡.
+
+In terms of Software, I am skilled at Javascript, React, Nextjs and Backend technologies like Nodejs, Express, Monogdb and Postgres SQL. 
 
 - 🌍 I'm based in Lagos, Nigeria
 - ✉️ You can contact me at [fagbenjaenoch73@gmail.com](mailto:fagbenjaenoch73@gmail.com)
-- 🧠 I'm learning Backend Development
-- 🤝 I'm open to collaborating on Backend projects (Nodejs and Go)
+- 🧠 I'm learning Design Patterns in software.
+- 🤝 I'm open to collaborating on Backend projects (Nextjs)
 - ⚡ I'm absolutely nothing without JESUS
 
 ### Skills
