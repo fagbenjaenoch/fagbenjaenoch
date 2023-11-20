@@ -11,7 +11,7 @@ In terms of Software, I am skilled at Javascript, React, Nextjs and Backend tech
 - 🌍 I'm based in Lagos, Nigeria
 - ✉️ You can contact me at [fagbenjaenoch73@gmail.com](mailto:fagbenjaenoch73@gmail.com)
 - 🧠 I'm learning Design Patterns in software.
-- 🤝 I'm open to collaborating on Backend projects (Nextjs)
+- 🤝 I'm open to collaborating on Backend projects (Node.js)
 - ⚡ I'm absolutely nothing without JESUS
 
 ### Skills
