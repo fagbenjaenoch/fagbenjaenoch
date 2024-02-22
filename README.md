@@ -2,7 +2,7 @@
 
 Hi!
 
-I'm Fagbenja Enoch and i'm a Full Stack Software developer with over 2 years of experience. 
+I'm Enoch Fagbenja and i'm a Full Stack Software developer with over 2 years of experience. 
 
 I have basic understanding of Software principles and have been working on part-time Projects. I learn pretty fast ⚡.
 
