@@ -4,15 +4,15 @@ Hi!
 
 I'm Fagbenja Enoch and i'm a Full Stack Software developer with over 2 years of experience. 
 
-I am have basic understanding of Software principles and have been working on part-time Projects. I learn pretty fast ⚡.
+I have basic understanding of Software principles and have been working on part-time Projects. I learn pretty fast ⚡.
 
 In terms of Software, I am skilled at Javascript, React, Nextjs and Backend technologies like Nodejs, Express, Monogdb and Postgres SQL. 
 
 - 🌍 I'm based in Lagos, Nigeria
 - ✉️ You can contact me at [fagbenjaenoch73@gmail.com](mailto:fagbenjaenoch73@gmail.com)
-- 🧠 I'm learning Design Patterns in software.
-- 🤝 I'm open to collaborating on Backend projects (Node.js)
-- ⚡ I'm absolutely nothing without JESUS
+- 🧠 I'm learning Design Patterns in software and DevOps.
+- 🤝 I'm very busy and my ability to collaborate on projects is greatly limited.
+- ⚡ I'm absolutely nothing without Jesus.
 
 ### Skills
 
@@ -21,8 +21,7 @@ In terms of Software, I am skilled at Javascript, React, Nextjs and Backend tech
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
