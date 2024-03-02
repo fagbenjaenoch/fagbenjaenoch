@@ -29,11 +29,6 @@ In terms of Software, I am skilled at Javascript, React, Nextjs and Backend tech
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### Socials
-
-</a> <a href="https://www.linkedin.com/in/fagbenjaenoch" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-<a href="https://www.twitter.com/fagbenjaenoch" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/fagbenjaenoch"><img src="https://github-readme-stats.vercel.app/api?username=fagbenjaenoch&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="fagbenjaenoch's GitHub stats" /></a>
