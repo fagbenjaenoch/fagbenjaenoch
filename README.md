@@ -1,4 +1,4 @@
-Hi!
+Hi.
 
 I'm Enoch Fagbenja and I'm a Full Stack Software developer with over 2 years of experience. 
 
