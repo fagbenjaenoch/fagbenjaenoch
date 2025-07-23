@@ -4,9 +4,7 @@ I'm Enoch Fagbenja and I'm a Software developer, I love learning and building.
 
 - 🌍 I'm based in Lagos, Nigeria
 - ✉️ You can contact me at [fagbenjaenoch73@gmail.com](mailto:fagbenjaenoch73@gmail.com)
-- 🧠 I'm learning how to build scalable and maintainble applications.
-- 🤝 I'm very busy currently.
-- ⚡ I'm absolutely nothing without Jesus.
+- 🧠 I'm learning how to build scalable and maintainble applications using modern architecture patterns and deep understanding of the tools themselves.
 
 ### Skills
 
