@@ -18,7 +18,7 @@ I'm Enoch and i've got a knack for computers. Been using them for over a decade 
 [![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=flat)](#)
 [![pnpm](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=fff)](#)
 [![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)](#)
-[![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](#)
+[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
 [![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](#)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](#)
 [![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](#)
