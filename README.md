@@ -29,4 +29,3 @@ I'm Enoch and i've got a knack for computers. Been using them for over a decade 
 
 ### Wakatime Stats
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@sage_of_light/e217308b-c2bd-48c7-b3da-7cd813d8ad1c.png" /></a>
-<a href="http://www.github.com/fagbenjaenoch"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fagbenjaenoch&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
