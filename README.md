@@ -4,7 +4,7 @@ I'm Enoch and i've got a knack for computers. Been using them for over a decade 
 
 - 🌍 I'm based in Lagos, Nigeria
 - ✉️ You can contact me at [fagbenjaenoch73@gmail.com](mailto:fagbenjaenoch73@gmail.com)
-- 🧠 I'm learning how to build scalable and maintainble applications using modern architecture patterns and deep understanding of the tools themselves.
+- 🧠 I'm building the technologies I use from scratch.
 
 ### Tools and Technologies
 
@@ -28,5 +28,8 @@ I'm Enoch and i've got a knack for computers. Been using them for over a decade 
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=fff)](#)
 
 ### Wakatime Stats
+[![wakatime](https://wakatime.com/badge/user/018f07cd-12a1-4a5c-8eb2-70f2369bae89.svg)](https://wakatime.com/@018f07cd-12a1-4a5c-8eb2-70f2369bae89)
+<br />
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@sage_of_light/e217308b-c2bd-48c7-b3da-7cd813d8ad1c.png" /></a>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@sage_of_light/2b7863e2-dd12-45c4-b69e-085cc6fc6ba5.png" /></a>
+<a href="https://wakatime.com/@sage_of_light"><img src="https://wakatime.com/share/@sage_of_light/0571fda4-49e6-461f-a774-3905ccec225b.svg" /></a>
+
