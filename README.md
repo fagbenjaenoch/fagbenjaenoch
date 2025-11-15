@@ -2,7 +2,7 @@ Hi,
 
 I'm Enoch, living in Lagos, Nigeria and I've got a knack for computers. Been using them for over a decade and writing programs on them for half the time.
 
-I'm currently building the technologies I use from scratch for learning purposes.
+I'm currently learning the technologies I use underneath by building them from the ground up.
 
 ### Wakatime Stats
 [![wakatime](https://wakatime.com/badge/user/018f07cd-12a1-4a5c-8eb2-70f2369bae89.svg)](https://wakatime.com/@018f07cd-12a1-4a5c-8eb2-70f2369bae89)
