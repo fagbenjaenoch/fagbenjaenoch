@@ -2,7 +2,7 @@ Hi,
 
 I'm Enoch, living in Lagos, Nigeria and I've got a knack for computers. Been using them for over a decade and writing programs on them for half the time.
 
-I'm currently learning the ideas underpining computer software.
+I'm currently learning the philosophy behind computer networks and I'm currently building a hostel marketplace app for nigerian students.
 
 ### Wakatime Stats
 <br />
