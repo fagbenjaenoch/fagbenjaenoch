@@ -4,7 +4,7 @@ I'm a Software Engineer building production systems with Go, TypeScript, and Pyt
 
 I enjoy learning things to their most primitive abstraction and it's made me build a [Peer to peer application](https://github.com/fagbenjaenoch/pitupi-chat), [Text editor](https://github.com/fagbenjaenoch/text-editor) and a few other interesting things from scratch.
 
-I run a book club along with my good friend [@buildwithhamzat](https://github.com/buildwithhamzat) where we've studied books about computer networks, OS and distributed systems fundamentals.
+I run a [book club](https://www.youtube.com/channel/UCAaq66ybpl6224AzojDBmEA/) along with my good friend [@buildwithhamzat](https://github.com/buildwithhamzat) where we've studied books about computer networks, OS and distributed systems fundamentals.
 
 Currently I'm building a [hostel marketplace app](https://dorms.ng) for Nigerian Students and it's [source code](https://github.com/fagbenjaenoch/dorms-ng) is open for contributions.
 
